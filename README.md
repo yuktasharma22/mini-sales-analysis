@@ -62,7 +62,7 @@ mini-sales-analysis/
 ## 💡 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mini-sales-analysis.git
+   git clone https://github.com/yuktasharma22/mini-sales-analysis.git
    cd mini-sales-analysis
    ```
 
@@ -128,5 +128,5 @@ mini-sales-analysis/
 ## 👩‍💻 Author
 
 **Yukta Sharma**   
-🌐 [GitHub](https://github.com/yourusername)  
+🌐 [GitHub](https://github.com/yuktasharma22)  
 📧 mail4yukta@gmail.com
