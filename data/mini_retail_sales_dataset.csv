@@ -1,0 +1,501 @@
+Invoice ID,Date,City,Product Line,Unit Price,Quantity,Payment Method,Total Revenue,Gross Income %,Profit,Year,Month,Day,Weekday
+6aea1cb2,2023-01-01,Bangalore,Clothing,194.54,6,Credit Card,1167.24,0.07,81.71,2023,1,1,Sunday
+6c77637a,2023-01-02,Mumbai,Clothing,243.33,2,E-Wallet,486.66,0.08,38.93,2023,1,2,Monday
+ee6ba47c,2023-01-03,Bangalore,Groceries,637.42,3,E-Wallet,1912.2599999999998,0.13,248.59,2023,1,3,Tuesday
+05eea0f2,2023-01-04,Bangalore,Clothing,908.79,1,Credit Card,908.79,0.09,81.79,2023,1,4,Wednesday
+723b0cd9,2023-01-05,Mumbai,Electronics,323.03,9,Cash,2907.2699999999995,0.13,377.95,2023,1,5,Thursday
+c78bbe1c,2023-01-06,Mumbai,Home Decor,592.42,8,Credit Card,4739.36,0.06,284.36,2023,1,6,Friday
+c05ffb8f,2023-01-07,Bangalore,Home Decor,686.15,2,E-Wallet,1372.3,0.1,137.23,2023,1,7,Saturday
+50ccff2b,2023-01-08,Delhi,Stationery,457.43,8,Cash,3659.44,0.05,182.97,2023,1,8,Sunday
+dbacf86a,2023-01-09,Bangalore,Clothing,716.64,9,Credit Card,6449.76,0.06,386.99,2023,1,9,Monday
+b8c3b90f,2023-01-10,Bangalore,Electronics,900.67,1,Credit Card,900.67,0.14,126.09,2023,1,10,Tuesday
+bee16343,2023-01-11,Bangalore,Stationery,627.86,5,Credit Card,3139.3,0.06,188.36,2023,1,11,Wednesday
+4390c1e7,2023-01-12,Bangalore,Groceries,544.38,8,Cash,4355.04,0.1,435.5,2023,1,12,Thursday
+15369282,2023-01-13,Mumbai,Stationery,444.36,2,E-Wallet,888.72,0.09,79.98,2023,1,13,Friday
+6bf9c993,2023-01-14,Bangalore,Stationery,581.71,4,Credit Card,2326.84,0.08,186.15,2023,1,14,Saturday
+6ab61ad9,2023-01-15,Delhi,Clothing,361.81,7,Credit Card,2532.67,0.14,354.57,2023,1,15,Sunday
+89ff83a1,2023-01-16,Mumbai,Groceries,397.57,3,Credit Card,1192.71,0.05,59.64,2023,1,16,Monday
+36d485ba,2023-01-17,Delhi,Stationery,536.54,5,Credit Card,2682.7,0.12,321.92,2023,1,17,Tuesday
+0f6c978d,2023-01-18,Delhi,Electronics,75.95,8,Credit Card,607.6,0.15,91.14,2023,1,18,Wednesday
+f377c78e,2023-01-19,Delhi,Electronics,236.74,3,E-Wallet,710.22,0.11,78.12,2023,1,19,Thursday
+1878ca3b,2023-01-20,Delhi,Home Decor,547.42,4,E-Wallet,2189.68,0.14,306.56,2023,1,20,Friday
+e90b5635,2023-01-21,Mumbai,Groceries,437.21,9,Credit Card,3934.89,0.06,236.09,2023,1,21,Saturday
+e6b99968,2023-01-22,Mumbai,Groceries,339.49,7,Cash,2376.4300000000003,0.09,213.88,2023,1,22,Sunday
+4aaa305f,2023-01-23,Delhi,Home Decor,733.24,1,E-Wallet,733.24,0.08,58.66,2023,1,23,Monday
+9676128b,2023-01-24,Delhi,Stationery,696.78,4,Cash,2787.12,0.12,334.45,2023,1,24,Tuesday
+e719a8de,2023-01-25,Mumbai,Groceries,175.06,4,E-Wallet,700.24,0.15,105.04,2023,1,25,Wednesday
+f69d30a5,2023-01-26,Mumbai,Electronics,879.84,9,Credit Card,7918.56,0.08,633.48,2023,1,26,Thursday
+9ec224a0,2023-01-27,Mumbai,Electronics,500.47,6,E-Wallet,3002.82,0.12,360.34,2023,1,27,Friday
+0c0c097c,2023-01-28,Bangalore,Clothing,744.05,9,Credit Card,6696.45,0.07,468.75,2023,1,28,Saturday
+4976ecfb,2023-01-29,Bangalore,Groceries,577.42,6,E-Wallet,3464.5199999999995,0.11,381.1,2023,1,29,Sunday
+1c2d0db6,2023-01-30,Bangalore,Stationery,997.72,6,Credit Card,5986.32,0.1,598.63,2023,1,30,Monday
+7a030b2b,2023-01-31,Delhi,Home Decor,754.88,5,Credit Card,3774.4,0.15,566.16,2023,1,31,Tuesday
+171873bd,2023-02-01,Bangalore,Home Decor,709.91,5,Credit Card,3549.5499999999997,0.11,390.45,2023,2,1,Wednesday
+ce8892f9,2023-02-02,Delhi,Stationery,780.79,2,Credit Card,1561.58,0.08,124.93,2023,2,2,Thursday
+a51613c7,2023-02-03,Delhi,Clothing,151.7,8,Cash,1213.6,0.06,72.82,2023,2,3,Friday
+4fcb4fd4,2023-02-04,Bangalore,Home Decor,212.5,8,Credit Card,1700.0,0.07,119.0,2023,2,4,Saturday
+f12bd4ce,2023-02-05,Delhi,Groceries,716.92,1,Cash,716.92,0.07,50.18,2023,2,5,Sunday
+72419521,2023-02-06,Bangalore,Clothing,499.04,8,Cash,3992.32,0.08,319.39,2023,2,6,Monday
+1052fed7,2023-02-07,Bangalore,Groceries,757.09,5,Credit Card,3785.4500000000003,0.14,529.96,2023,2,7,Tuesday
+6f9b9e34,2023-02-08,Mumbai,Electronics,111.89,2,Cash,223.78,0.11,24.62,2023,2,8,Wednesday
+46737374,2023-02-09,Bangalore,Clothing,541.12,2,E-Wallet,1082.24,0.1,108.22,2023,2,9,Thursday
+2404e422,2023-02-10,Mumbai,Home Decor,385.03,6,Credit Card,2310.18,0.06,138.61,2023,2,10,Friday
+0c0b67cb,2023-02-11,Bangalore,Clothing,462.43,9,Cash,4161.87,0.14,582.66,2023,2,11,Saturday
+ac2ddca9,2023-02-12,Bangalore,Clothing,607.92,1,Credit Card,607.92,0.12,72.95,2023,2,12,Sunday
+3bdf074e,2023-02-13,Mumbai,Clothing,507.27,6,Credit Card,3043.62,0.06,182.62,2023,2,13,Monday
+4b52f208,2023-02-14,Mumbai,Clothing,544.46,9,Credit Card,4900.14,0.12,588.02,2023,2,14,Tuesday
+245625a5,2023-02-15,Bangalore,Groceries,491.49,8,Cash,3931.92,0.1,393.19,2023,2,15,Wednesday
+3f014fa7,2023-02-16,Delhi,Electronics,414.87,6,E-Wallet,2489.2200000000003,0.06,149.35,2023,2,16,Thursday
+8fa82d88,2023-02-17,Mumbai,Stationery,774.16,3,E-Wallet,2322.48,0.1,232.25,2023,2,17,Friday
+79fbf733,2023-02-18,Delhi,Clothing,22.08,8,Cash,176.64,0.1,17.66,2023,2,18,Saturday
+0849bf79,2023-02-19,Delhi,Home Decor,602.46,9,Credit Card,5422.14,0.07,379.55,2023,2,19,Sunday
+37323fc1,2023-02-20,Delhi,Clothing,569.85,1,Cash,569.85,0.14,79.78,2023,2,20,Monday
+b8a2340b,2023-02-21,Mumbai,Home Decor,719.02,9,Cash,6471.18,0.13,841.25,2023,2,21,Tuesday
+6a85f623,2023-02-22,Delhi,Groceries,603.04,6,Cash,3618.24,0.12,434.19,2023,2,22,Wednesday
+3b66a6cd,2023-02-23,Mumbai,Home Decor,828.53,6,Credit Card,4971.18,0.1,497.12,2023,2,23,Thursday
+2769d812,2023-02-24,Delhi,Stationery,959.48,4,Cash,3837.92,0.09,345.41,2023,2,24,Friday
+6ade8bfa,2023-02-25,Bangalore,Electronics,349.1,1,Credit Card,349.1,0.12,41.89,2023,2,25,Saturday
+b88e4dd8,2023-02-26,Bangalore,Home Decor,235.08,8,Cash,1880.64,0.1,188.06,2023,2,26,Sunday
+12be339a,2023-02-27,Mumbai,Home Decor,429.36,2,E-Wallet,858.72,0.06,51.52,2023,2,27,Monday
+e6412989,2023-02-28,Bangalore,Electronics,295.05,1,Cash,295.05,0.1,29.51,2023,2,28,Tuesday
+4ce58029,2023-03-01,Bangalore,Stationery,618.8,2,Cash,1237.6,0.13,160.89,2023,3,1,Wednesday
+3be53e37,2023-03-02,Delhi,Clothing,912.73,1,E-Wallet,912.73,0.1,91.27,2023,3,2,Thursday
+6b71b1e6,2023-03-03,Mumbai,Home Decor,147.73,1,Credit Card,147.73,0.06,8.86,2023,3,3,Friday
+dcb49992,2023-03-04,Delhi,Electronics,109.79,9,Credit Card,988.11,0.13,128.45,2023,3,4,Saturday
+b5b685cc,2023-03-05,Delhi,Groceries,263.46,1,Cash,263.46,0.07,18.44,2023,3,5,Sunday
+8b85ce66,2023-03-06,Delhi,Electronics,728.83,4,E-Wallet,2915.32,0.08,233.23,2023,3,6,Monday
+62c7763d,2023-03-07,Delhi,Groceries,597.03,6,Credit Card,3582.18,0.07,250.75,2023,3,7,Tuesday
+e58de471,2023-03-08,Delhi,Stationery,111.19,7,Cash,778.3299999999999,0.08,62.27,2023,3,8,Wednesday
+1395d9ad,2023-03-09,Delhi,Clothing,919.56,2,E-Wallet,1839.12,0.13,239.09,2023,3,9,Thursday
+8268fd82,2023-03-10,Delhi,Electronics,792.18,6,Credit Card,4753.08,0.1,475.31,2023,3,10,Friday
+fe4581ad,2023-03-11,Mumbai,Home Decor,32.79,7,Credit Card,229.53,0.07,16.07,2023,3,11,Saturday
+8848070f,2023-03-12,Bangalore,Stationery,654.85,2,E-Wallet,1309.7,0.14,183.36,2023,3,12,Sunday
+4c380bf7,2023-03-13,Delhi,Electronics,773.53,2,E-Wallet,1547.06,0.14,216.59,2023,3,13,Monday
+3626de72,2023-03-14,Delhi,Home Decor,380.69,7,E-Wallet,2664.83,0.14,373.08,2023,3,14,Tuesday
+127e3d3c,2023-03-15,Delhi,Electronics,78.23,1,E-Wallet,78.23,0.07,5.48,2023,3,15,Wednesday
+c94cd614,2023-03-16,Delhi,Groceries,86.55,8,Cash,692.4,0.1,69.24,2023,3,16,Thursday
+b6ed9f6a,2023-03-17,Delhi,Electronics,113.2,3,E-Wallet,339.6,0.15,50.94,2023,3,17,Friday
+931f60dc,2023-03-18,Delhi,Electronics,842.04,6,Credit Card,5052.24,0.13,656.79,2023,3,18,Saturday
+f7cbb373,2023-03-19,Bangalore,Electronics,911.58,9,Credit Card,8204.220000000001,0.05,410.21,2023,3,19,Sunday
+cef36e89,2023-03-20,Bangalore,Stationery,131.58,6,Cash,789.48,0.06,47.37,2023,3,20,Monday
+09ab3795,2023-03-21,Delhi,Electronics,243.55,9,Credit Card,2191.9500000000003,0.1,219.2,2023,3,21,Tuesday
+945328b2,2023-03-22,Bangalore,Home Decor,173.87,7,Credit Card,1217.0900000000001,0.14,170.39,2023,3,22,Wednesday
+3c8bad0b,2023-03-23,Mumbai,Groceries,194.46,9,E-Wallet,1750.14,0.1,175.01,2023,3,23,Thursday
+08bf4e93,2023-03-24,Delhi,Groceries,839.12,2,Credit Card,1678.24,0.1,167.82,2023,3,24,Friday
+a0d6f661,2023-03-25,Mumbai,Electronics,338.82,8,Cash,2710.56,0.06,162.63,2023,3,25,Saturday
+b039ca19,2023-03-26,Mumbai,Stationery,318.33,8,E-Wallet,2546.64,0.12,305.6,2023,3,26,Sunday
+f0ab0833,2023-03-27,Delhi,Stationery,235.12,2,E-Wallet,470.24,0.13,61.13,2023,3,27,Monday
+6abdabaa,2023-03-28,Bangalore,Home Decor,611.82,4,Cash,2447.28,0.09,220.26,2023,3,28,Tuesday
+eb581c40,2023-03-29,Mumbai,Electronics,385.51,7,E-Wallet,2698.5699999999997,0.13,350.81,2023,3,29,Wednesday
+f8543919,2023-03-30,Delhi,Groceries,746.81,4,E-Wallet,2987.24,0.15,448.09,2023,3,30,Thursday
+2964e434,2023-03-31,Mumbai,Stationery,213.52,4,Cash,854.08,0.07,59.79,2023,3,31,Friday
+66a70986,2023-04-01,Mumbai,Electronics,789.91,6,E-Wallet,4739.46,0.1,473.95,2023,4,1,Saturday
+d3e32210,2023-04-02,Mumbai,Stationery,607.68,6,Cash,3646.08,0.08,291.69,2023,4,2,Sunday
+8b42b506,2023-04-03,Mumbai,Stationery,123.12,3,Cash,369.36,0.13,48.02,2023,4,3,Monday
+db7d1fff,2023-04-04,Bangalore,Groceries,420.36,9,Credit Card,3783.2400000000002,0.11,416.16,2023,4,4,Tuesday
+7a09f27e,2023-04-05,Mumbai,Clothing,864.88,2,Credit Card,1729.76,0.11,190.27,2023,4,5,Wednesday
+3dbd2ab2,2023-04-06,Mumbai,Home Decor,923.73,6,E-Wallet,5542.38,0.13,720.51,2023,4,6,Thursday
+0f356d31,2023-04-07,Mumbai,Home Decor,471.04,7,E-Wallet,3297.28,0.09,296.76,2023,4,7,Friday
+b0fdc559,2023-04-08,Bangalore,Groceries,486.03,9,Cash,4374.2699999999995,0.14,612.4,2023,4,8,Saturday
+9503fe88,2023-04-09,Mumbai,Stationery,919.27,3,E-Wallet,2757.81,0.1,275.78,2023,4,9,Sunday
+08b99bc4,2023-04-10,Mumbai,Electronics,591.2,3,Cash,1773.6000000000001,0.07,124.15,2023,4,10,Monday
+f365da71,2023-04-11,Bangalore,Stationery,42.52,7,Cash,297.64000000000004,0.12,35.72,2023,4,11,Tuesday
+6ff73df3,2023-04-12,Bangalore,Groceries,913.62,4,E-Wallet,3654.48,0.13,475.08,2023,4,12,Wednesday
+b11bffe2,2023-04-13,Bangalore,Home Decor,255.74,8,Cash,2045.92,0.08,163.67,2023,4,13,Thursday
+bfeb37d4,2023-04-14,Mumbai,Stationery,581.86,7,Credit Card,4073.02,0.14,570.22,2023,4,14,Friday
+ef6a9ae0,2023-04-15,Bangalore,Home Decor,173.86,5,E-Wallet,869.3000000000001,0.14,121.7,2023,4,15,Saturday
+edd6dbc0,2023-04-16,Bangalore,Electronics,43.54,7,Credit Card,304.78,0.08,24.38,2023,4,16,Sunday
+6e160455,2023-04-17,Mumbai,Home Decor,318.36,3,E-Wallet,955.08,0.15,143.26,2023,4,17,Monday
+5fe66a9d,2023-04-18,Bangalore,Home Decor,782.69,2,Cash,1565.38,0.06,93.92,2023,4,18,Tuesday
+f36dd46f,2023-04-19,Mumbai,Clothing,284.81,6,E-Wallet,1708.8600000000001,0.07,119.62,2023,4,19,Wednesday
+2a48a096,2023-04-20,Delhi,Clothing,227.9,2,Credit Card,455.8,0.07,31.91,2023,4,20,Thursday
+b24a872b,2023-04-21,Bangalore,Clothing,220.55,3,Cash,661.6500000000001,0.14,92.63,2023,4,21,Friday
+1344559b,2023-04-22,Delhi,Home Decor,520.02,6,E-Wallet,3120.12,0.12,374.41,2023,4,22,Saturday
+ed846d81,2023-04-23,Mumbai,Groceries,975.79,5,E-Wallet,4878.95,0.07,341.53,2023,4,23,Sunday
+4b988274,2023-04-24,Bangalore,Home Decor,464.4,8,E-Wallet,3715.2,0.09,334.37,2023,4,24,Monday
+617c65f5,2023-04-25,Mumbai,Groceries,561.73,9,Credit Card,5055.57,0.11,556.11,2023,4,25,Tuesday
+2aa94eee,2023-04-26,Delhi,Groceries,862.03,3,Credit Card,2586.09,0.06,155.17,2023,4,26,Wednesday
+b6ad5029,2023-04-27,Mumbai,Clothing,539.72,3,E-Wallet,1619.16,0.14,226.68,2023,4,27,Thursday
+1a5777a5,2023-04-28,Bangalore,Stationery,192.62,3,Cash,577.86,0.13,75.12,2023,4,28,Friday
+9d0da37f,2023-04-29,Bangalore,Electronics,306.6,6,Cash,1839.6000000000001,0.1,183.96,2023,4,29,Saturday
+56c1a965,2023-04-30,Delhi,Clothing,316.84,1,Credit Card,316.84,0.15,47.53,2023,4,30,Sunday
+98aa0804,2023-05-01,Mumbai,Clothing,403.34,7,Cash,2823.3799999999997,0.09,254.1,2023,5,1,Monday
+cd87994f,2023-05-02,Bangalore,Stationery,432.52,1,Credit Card,432.52,0.15,64.88,2023,5,2,Tuesday
+a018aefe,2023-05-03,Delhi,Electronics,801.78,5,E-Wallet,4008.8999999999996,0.12,481.07,2023,5,3,Wednesday
+8f874210,2023-05-04,Bangalore,Home Decor,355.89,8,Credit Card,2847.12,0.11,313.18,2023,5,4,Thursday
+0d1d47e5,2023-05-05,Bangalore,Home Decor,473.55,4,Credit Card,1894.2,0.07,132.59,2023,5,5,Friday
+1e2a2cab,2023-05-06,Mumbai,Clothing,628.73,5,E-Wallet,3143.65,0.14,440.11,2023,5,6,Saturday
+7c4f2540,2023-05-07,Bangalore,Electronics,383.95,4,Cash,1535.8,0.09,138.22,2023,5,7,Sunday
+91d54f55,2023-05-08,Mumbai,Clothing,838.2,4,Credit Card,3352.8,0.07,234.7,2023,5,8,Monday
+9babf021,2023-05-09,Bangalore,Groceries,591.58,8,Credit Card,4732.64,0.05,236.63,2023,5,9,Tuesday
+92dde68e,2023-05-10,Delhi,Clothing,301.1,2,E-Wallet,602.2,0.11,66.24,2023,5,10,Wednesday
+9135c107,2023-05-11,Bangalore,Clothing,716.92,1,Cash,716.92,0.1,71.69,2023,5,11,Thursday
+ec30d433,2023-05-12,Mumbai,Home Decor,532.37,3,Credit Card,1597.1100000000001,0.12,191.65,2023,5,12,Friday
+d7b0ea8a,2023-05-13,Mumbai,Home Decor,539.11,9,E-Wallet,4851.99,0.14,679.28,2023,5,13,Saturday
+1a097b17,2023-05-14,Delhi,Home Decor,486.28,4,Credit Card,1945.12,0.06,116.71,2023,5,14,Sunday
+317ff090,2023-05-15,Bangalore,Groceries,502.04,5,E-Wallet,2510.2000000000003,0.12,301.22,2023,5,15,Monday
+0b647a1a,2023-05-16,Bangalore,Home Decor,767.7,2,Cash,1535.4,0.07,107.48,2023,5,16,Tuesday
+016213c6,2023-05-17,Delhi,Electronics,111.95,4,Cash,447.8,0.14,62.69,2023,5,17,Wednesday
+5eda9c11,2023-05-18,Bangalore,Stationery,341.02,2,Cash,682.04,0.13,88.67,2023,5,18,Thursday
+a3ae800e,2023-05-19,Bangalore,Electronics,84.75,2,Cash,169.5,0.1,16.95,2023,5,19,Friday
+8c1309b1,2023-05-20,Mumbai,Electronics,755.71,4,Credit Card,3022.84,0.12,362.74,2023,5,20,Saturday
+ebff630f,2023-05-21,Bangalore,Home Decor,279.58,6,Credit Card,1677.48,0.08,134.2,2023,5,21,Sunday
+b7c9e1aa,2023-05-22,Bangalore,Stationery,898.46,7,Cash,6289.22,0.1,628.92,2023,5,22,Monday
+9bf15c78,2023-05-23,Delhi,Stationery,531.31,3,Cash,1593.9299999999998,0.13,207.21,2023,5,23,Tuesday
+e71755b8,2023-05-24,Delhi,Stationery,802.74,3,Cash,2408.2200000000003,0.1,240.82,2023,5,24,Wednesday
+d1478f44,2023-05-25,Mumbai,Groceries,979.14,6,Credit Card,5874.84,0.09,528.74,2023,5,25,Thursday
+bb8c5920,2023-05-26,Bangalore,Home Decor,841.39,3,Cash,2524.17,0.1,252.42,2023,5,26,Friday
+06feabfb,2023-05-27,Bangalore,Stationery,868.32,2,Cash,1736.64,0.13,225.76,2023,5,27,Saturday
+db004a0d,2023-05-28,Bangalore,Groceries,413.9,8,Cash,3311.2,0.08,264.9,2023,5,28,Sunday
+98dce517,2023-05-29,Mumbai,Clothing,556.21,5,E-Wallet,2781.05,0.07,194.67,2023,5,29,Monday
+c90be34b,2023-05-30,Mumbai,Clothing,261.35,1,Cash,261.35,0.12,31.36,2023,5,30,Tuesday
+106a3062,2023-05-31,Delhi,Groceries,204.15,3,E-Wallet,612.45,0.13,79.62,2023,5,31,Wednesday
+78e2916f,2023-06-01,Mumbai,Groceries,510.45,8,E-Wallet,4083.6,0.06,245.02,2023,6,1,Thursday
+df69300e,2023-06-02,Bangalore,Home Decor,599.1,4,Cash,2396.4,0.07,167.75,2023,6,2,Friday
+89e6cd1f,2023-06-03,Bangalore,Home Decor,345.88,7,E-Wallet,2421.16,0.06,145.27,2023,6,3,Saturday
+0b9cf359,2023-06-04,Mumbai,Clothing,573.75,2,Cash,1147.5,0.08,91.8,2023,6,4,Sunday
+45bc50c7,2023-06-05,Bangalore,Stationery,888.59,7,Credit Card,6220.13,0.1,622.01,2023,6,5,Monday
+d46e4300,2023-06-06,Bangalore,Clothing,561.15,5,Credit Card,2805.75,0.12,336.69,2023,6,6,Tuesday
+d0ba7bb2,2023-06-07,Mumbai,Stationery,723.6,5,Credit Card,3618.0,0.12,434.16,2023,6,7,Wednesday
+547fa111,2023-06-08,Mumbai,Stationery,807.26,6,Credit Card,4843.5599999999995,0.11,532.79,2023,6,8,Thursday
+9e38dc99,2023-06-09,Bangalore,Home Decor,988.84,9,E-Wallet,8899.56,0.09,800.96,2023,6,9,Friday
+9ea858aa,2023-06-10,Bangalore,Electronics,607.17,6,Cash,3643.0199999999995,0.13,473.59,2023,6,10,Saturday
+6f818a74,2023-06-11,Bangalore,Electronics,808.78,8,Cash,6470.24,0.1,647.02,2023,6,11,Sunday
+41644f7e,2023-06-12,Delhi,Groceries,963.02,7,Cash,6741.139999999999,0.15,1011.17,2023,6,12,Monday
+c5e315c0,2023-06-13,Delhi,Home Decor,944.97,9,Credit Card,8504.73,0.11,935.52,2023,6,13,Tuesday
+b0f2da58,2023-06-14,Delhi,Stationery,149.67,4,Credit Card,598.68,0.06,35.92,2023,6,14,Wednesday
+def353f8,2023-06-15,Mumbai,Electronics,412.33,2,Cash,824.66,0.12,98.96,2023,6,15,Thursday
+a6eeb1ae,2023-06-16,Delhi,Stationery,330.75,7,Credit Card,2315.25,0.08,185.22,2023,6,16,Friday
+112346db,2023-06-17,Mumbai,Electronics,96.06,6,Cash,576.36,0.12,69.16,2023,6,17,Saturday
+89626ab9,2023-06-18,Mumbai,Electronics,636.91,1,Cash,636.91,0.06,38.21,2023,6,18,Sunday
+833bebb6,2023-06-19,Delhi,Electronics,738.55,9,Cash,6646.95,0.07,465.29,2023,6,19,Monday
+0144d1ef,2023-06-20,Delhi,Home Decor,849.65,9,Cash,7646.849999999999,0.14,1070.56,2023,6,20,Tuesday
+a419a64e,2023-06-21,Delhi,Clothing,131.55,2,Cash,263.1,0.07,18.42,2023,6,21,Wednesday
+802cffce,2023-06-22,Bangalore,Stationery,877.68,3,Cash,2633.04,0.13,342.3,2023,6,22,Thursday
+9010e76f,2023-06-23,Delhi,Home Decor,646.5,5,Cash,3232.5,0.08,258.6,2023,6,23,Friday
+ffa677c1,2023-06-24,Bangalore,Home Decor,706.91,5,Credit Card,3534.5499999999997,0.11,388.8,2023,6,24,Saturday
+b18b3e25,2023-06-25,Mumbai,Home Decor,911.52,1,Cash,911.52,0.12,109.38,2023,6,25,Sunday
+706d96fb,2023-06-26,Bangalore,Home Decor,628.51,8,Cash,5028.08,0.1,502.81,2023,6,26,Monday
+21d503f1,2023-06-27,Delhi,Home Decor,342.51,8,Credit Card,2740.08,0.08,219.21,2023,6,27,Tuesday
+05ec4807,2023-06-28,Mumbai,Groceries,826.86,4,Credit Card,3307.44,0.07,231.52,2023,6,28,Wednesday
+cdf3db15,2023-06-29,Mumbai,Stationery,369.43,7,Credit Card,2586.01,0.05,129.3,2023,6,29,Thursday
+5e155a5e,2023-06-30,Mumbai,Home Decor,43.89,3,Cash,131.67000000000002,0.08,10.53,2023,6,30,Friday
+139fb613,2023-07-01,Bangalore,Stationery,832.35,6,E-Wallet,4994.1,0.12,599.29,2023,7,1,Saturday
+2c26385c,2023-07-02,Delhi,Groceries,351.74,9,E-Wallet,3165.66,0.14,443.19,2023,7,2,Sunday
+4bafd1c6,2023-07-03,Mumbai,Groceries,776.1,1,Credit Card,776.1,0.14,108.65,2023,7,3,Monday
+bcfaf0fd,2023-07-04,Mumbai,Stationery,369.13,5,E-Wallet,1845.65,0.13,239.93,2023,7,4,Tuesday
+2844aa4f,2023-07-05,Mumbai,Electronics,862.46,4,Credit Card,3449.84,0.13,448.48,2023,7,5,Wednesday
+132fe43e,2023-07-06,Bangalore,Clothing,227.32,8,Cash,1818.56,0.12,218.23,2023,7,6,Thursday
+b2a8de1e,2023-07-07,Bangalore,Electronics,974.8,1,E-Wallet,974.8,0.08,77.98,2023,7,7,Friday
+ab954bb0,2023-07-08,Delhi,Electronics,781.96,9,Cash,7037.64,0.14,985.27,2023,7,8,Saturday
+bb055cee,2023-07-09,Bangalore,Electronics,123.1,6,E-Wallet,738.5999999999999,0.12,88.63,2023,7,9,Sunday
+8452ea59,2023-07-10,Mumbai,Home Decor,570.12,4,Cash,2280.48,0.11,250.85,2023,7,10,Monday
+d30c4e58,2023-07-11,Delhi,Groceries,985.51,9,E-Wallet,8869.59,0.06,532.18,2023,7,11,Tuesday
+4704a67d,2023-07-12,Mumbai,Electronics,476.35,5,Cash,2381.75,0.09,214.36,2023,7,12,Wednesday
+36effb5e,2023-07-13,Mumbai,Groceries,190.29,5,Cash,951.4499999999999,0.1,95.14,2023,7,13,Thursday
+ca682c44,2023-07-14,Bangalore,Stationery,489.93,5,E-Wallet,2449.65,0.14,342.95,2023,7,14,Friday
+2cb63da2,2023-07-15,Delhi,Clothing,517.33,1,Cash,517.33,0.1,51.73,2023,7,15,Saturday
+02bc73fb,2023-07-16,Bangalore,Stationery,744.27,1,Cash,744.27,0.09,66.98,2023,7,16,Sunday
+daa4d459,2023-07-17,Bangalore,Stationery,701.86,8,Cash,5614.88,0.15,842.23,2023,7,17,Monday
+dde0db8b,2023-07-18,Delhi,Home Decor,408.52,8,E-Wallet,3268.16,0.06,196.09,2023,7,18,Tuesday
+addcde72,2023-07-19,Mumbai,Clothing,225.84,6,E-Wallet,1355.04,0.09,121.95,2023,7,19,Wednesday
+9c237f4a,2023-07-20,Mumbai,Stationery,648.6,4,Cash,2594.4,0.05,129.72,2023,7,20,Thursday
+b90201a9,2023-07-21,Delhi,Stationery,427.49,2,Cash,854.98,0.12,102.6,2023,7,21,Friday
+d073dd8f,2023-07-22,Mumbai,Clothing,140.95,2,E-Wallet,281.9,0.14,39.47,2023,7,22,Saturday
+542d7216,2023-07-23,Delhi,Clothing,901.57,9,E-Wallet,8114.13,0.08,649.13,2023,7,23,Sunday
+7f5ea5db,2023-07-24,Delhi,Stationery,694.31,5,Cash,3471.5499999999997,0.14,486.02,2023,7,24,Monday
+b5be739a,2023-07-25,Bangalore,Clothing,686.35,4,Cash,2745.4,0.08,219.63,2023,7,25,Tuesday
+c80839e8,2023-07-26,Delhi,Stationery,824.36,1,Cash,824.36,0.14,115.41,2023,7,26,Wednesday
+77dfd712,2023-07-27,Bangalore,Stationery,534.37,7,Credit Card,3740.59,0.13,486.28,2023,7,27,Thursday
+6c7dd7d2,2023-07-28,Mumbai,Home Decor,816.9,3,E-Wallet,2450.7,0.13,318.59,2023,7,28,Friday
+2236f7f0,2023-07-29,Mumbai,Electronics,503.11,6,Credit Card,3018.66,0.05,150.93,2023,7,29,Saturday
+f5fccc84,2023-07-30,Mumbai,Stationery,76.5,5,E-Wallet,382.5,0.15,57.38,2023,7,30,Sunday
+e9dfb207,2023-07-31,Mumbai,Groceries,411.2,5,E-Wallet,2056.0,0.12,246.72,2023,7,31,Monday
+437c12f8,2023-08-01,Bangalore,Electronics,502.49,5,E-Wallet,2512.45,0.08,201.0,2023,8,1,Tuesday
+87eefd48,2023-08-02,Mumbai,Electronics,723.0,1,E-Wallet,723.0,0.13,93.99,2023,8,2,Wednesday
+083adb88,2023-08-03,Delhi,Electronics,115.51,1,E-Wallet,115.51,0.08,9.24,2023,8,3,Thursday
+d4a495a2,2023-08-04,Delhi,Home Decor,148.62,3,E-Wallet,445.86,0.14,62.42,2023,8,4,Friday
+07682f5f,2023-08-05,Delhi,Stationery,271.05,4,E-Wallet,1084.2,0.06,65.05,2023,8,5,Saturday
+c4a7e34d,2023-08-06,Bangalore,Home Decor,273.83,5,Credit Card,1369.1499999999999,0.12,164.3,2023,8,6,Sunday
+002704f7,2023-08-07,Mumbai,Stationery,734.86,2,Cash,1469.72,0.1,146.97,2023,8,7,Monday
+7943b0f3,2023-08-08,Mumbai,Home Decor,258.22,8,Cash,2065.76,0.06,123.95,2023,8,8,Tuesday
+77011a8b,2023-08-09,Mumbai,Home Decor,636.77,2,Credit Card,1273.54,0.07,89.15,2023,8,9,Wednesday
+58bce3c8,2023-08-10,Bangalore,Groceries,499.33,9,Credit Card,4493.97,0.05,224.7,2023,8,10,Thursday
+3e47adfb,2023-08-11,Delhi,Home Decor,577.56,2,Credit Card,1155.12,0.1,115.51,2023,8,11,Friday
+3ba7fb6d,2023-08-12,Delhi,Clothing,839.73,9,Credit Card,7557.57,0.08,604.61,2023,8,12,Saturday
+da8a0bb1,2023-08-13,Mumbai,Groceries,410.34,7,E-Wallet,2872.3799999999997,0.11,315.96,2023,8,13,Sunday
+1cb87864,2023-08-14,Delhi,Home Decor,773.2,8,Cash,6185.6,0.08,494.85,2023,8,14,Monday
+971b4e69,2023-08-15,Delhi,Electronics,427.82,2,E-Wallet,855.64,0.08,68.45,2023,8,15,Tuesday
+bc4c6c02,2023-08-16,Bangalore,Clothing,360.33,7,Cash,2522.31,0.12,302.68,2023,8,16,Wednesday
+c0b13b3b,2023-08-17,Bangalore,Clothing,959.04,6,Cash,5754.24,0.05,287.71,2023,8,17,Thursday
+56ba354d,2023-08-18,Bangalore,Clothing,192.53,4,Credit Card,770.12,0.14,107.82,2023,8,18,Friday
+3b9ecb45,2023-08-19,Bangalore,Groceries,99.43,7,E-Wallet,696.01,0.14,97.44,2023,8,19,Saturday
+fdac3823,2023-08-20,Mumbai,Home Decor,773.28,4,Credit Card,3093.12,0.12,371.17,2023,8,20,Sunday
+1c95e181,2023-08-21,Bangalore,Home Decor,77.57,2,E-Wallet,155.14,0.11,17.07,2023,8,21,Monday
+a7e84439,2023-08-22,Delhi,Electronics,838.71,7,Cash,5870.97,0.14,821.94,2023,8,22,Tuesday
+002837db,2023-08-23,Mumbai,Electronics,442.82,8,Credit Card,3542.56,0.07,247.98,2023,8,23,Wednesday
+c82acbce,2023-08-24,Delhi,Clothing,916.36,2,Credit Card,1832.72,0.06,109.96,2023,8,24,Thursday
+e5bc440c,2023-08-25,Delhi,Electronics,724.32,5,Cash,3621.6000000000004,0.07,253.51,2023,8,25,Friday
+7f91e372,2023-08-26,Delhi,Groceries,614.3,1,Cash,614.3,0.13,79.86,2023,8,26,Saturday
+93d87d7e,2023-08-27,Bangalore,Home Decor,949.81,7,Cash,6648.67,0.05,332.43,2023,8,27,Sunday
+8c8f8fd7,2023-08-28,Bangalore,Clothing,402.68,8,Credit Card,3221.44,0.11,354.36,2023,8,28,Monday
+dfa582a2,2023-08-29,Mumbai,Electronics,954.55,6,E-Wallet,5727.299999999999,0.15,859.09,2023,8,29,Tuesday
+8803c692,2023-08-30,Mumbai,Groceries,143.65,5,Credit Card,718.25,0.14,100.56,2023,8,30,Wednesday
+5fa2b667,2023-08-31,Bangalore,Groceries,488.92,6,E-Wallet,2933.52,0.1,293.35,2023,8,31,Thursday
+b1cd1d51,2023-09-01,Delhi,Electronics,277.21,2,Credit Card,554.42,0.06,33.27,2023,9,1,Friday
+b98f2c5d,2023-09-02,Mumbai,Home Decor,544.44,1,Credit Card,544.44,0.13,70.78,2023,9,2,Saturday
+6501d6e1,2023-09-03,Bangalore,Electronics,170.39,7,Cash,1192.73,0.11,131.2,2023,9,3,Sunday
+b5249bf4,2023-09-04,Bangalore,Clothing,843.11,7,E-Wallet,5901.77,0.06,354.11,2023,9,4,Monday
+9e42bbfc,2023-09-05,Bangalore,Electronics,847.94,2,Credit Card,1695.88,0.06,101.75,2023,9,5,Tuesday
+be6a3423,2023-09-06,Delhi,Groceries,955.68,2,Credit Card,1911.36,0.14,267.59,2023,9,6,Wednesday
+a57f10c7,2023-09-07,Bangalore,Electronics,163.13,1,Cash,163.13,0.12,19.58,2023,9,7,Thursday
+68007a44,2023-09-08,Bangalore,Home Decor,627.1,8,Cash,5016.8,0.13,652.18,2023,9,8,Friday
+3435e4e4,2023-09-09,Bangalore,Stationery,479.49,8,E-Wallet,3835.92,0.14,537.03,2023,9,9,Saturday
+e7eaf239,2023-09-10,Bangalore,Electronics,350.94,1,Credit Card,350.94,0.11,38.6,2023,9,10,Sunday
+bd7bd543,2023-09-11,Mumbai,Home Decor,358.02,8,E-Wallet,2864.16,0.1,286.42,2023,9,11,Monday
+3208b1a4,2023-09-12,Mumbai,Home Decor,418.67,9,Credit Card,3768.03,0.09,339.12,2023,9,12,Tuesday
+a5352536,2023-09-13,Bangalore,Groceries,707.88,4,E-Wallet,2831.52,0.08,226.52,2023,9,13,Wednesday
+55e6ec94,2023-09-14,Delhi,Home Decor,602.3,1,Cash,602.3,0.09,54.21,2023,9,14,Thursday
+5f9c3149,2023-09-15,Mumbai,Home Decor,465.08,1,Credit Card,465.08,0.13,60.46,2023,9,15,Friday
+a4025339,2023-09-16,Bangalore,Home Decor,85.17,3,E-Wallet,255.51,0.11,28.11,2023,9,16,Saturday
+180f00c8,2023-09-17,Mumbai,Home Decor,86.99,5,Cash,434.95,0.14,60.89,2023,9,17,Sunday
+49211895,2023-09-18,Mumbai,Clothing,12.32,5,Cash,61.6,0.09,5.54,2023,9,18,Monday
+e78af370,2023-09-19,Delhi,Clothing,968.02,9,E-Wallet,8712.18,0.11,958.34,2023,9,19,Tuesday
+35ac486a,2023-09-20,Bangalore,Groceries,15.2,2,Credit Card,30.4,0.11,3.34,2023,9,20,Wednesday
+e109f16c,2023-09-21,Bangalore,Electronics,112.06,2,Credit Card,224.12,0.11,24.65,2023,9,21,Thursday
+b1db9dee,2023-09-22,Delhi,Home Decor,321.45,6,Cash,1928.6999999999998,0.12,231.44,2023,9,22,Friday
+35915850,2023-09-23,Delhi,Electronics,809.36,9,Credit Card,7284.24,0.07,509.9,2023,9,23,Saturday
+4ab7b55f,2023-09-24,Bangalore,Electronics,962.48,1,Credit Card,962.48,0.1,96.25,2023,9,24,Sunday
+ccb260d2,2023-09-25,Bangalore,Groceries,792.11,9,Credit Card,7128.99,0.06,427.74,2023,9,25,Monday
+ba4c5d92,2023-09-26,Delhi,Home Decor,693.65,9,Cash,6242.849999999999,0.09,561.86,2023,9,26,Tuesday
+404e2c45,2023-09-27,Mumbai,Home Decor,526.09,9,E-Wallet,4734.81,0.1,473.48,2023,9,27,Wednesday
+afff91ad,2023-09-28,Mumbai,Stationery,95.84,5,Credit Card,479.20000000000005,0.12,57.5,2023,9,28,Thursday
+2848e3b3,2023-09-29,Delhi,Electronics,958.59,9,Cash,8627.31,0.15,1294.1,2023,9,29,Friday
+7e55ed22,2023-09-30,Mumbai,Electronics,760.81,4,Cash,3043.24,0.11,334.76,2023,9,30,Saturday
+00365fca,2023-10-01,Delhi,Clothing,642.56,2,E-Wallet,1285.12,0.12,154.21,2023,10,1,Sunday
+6e22115f,2023-10-02,Mumbai,Stationery,761.45,6,Credit Card,4568.700000000001,0.1,456.87,2023,10,2,Monday
+dbe5f293,2023-10-03,Mumbai,Clothing,726.86,4,Credit Card,2907.44,0.11,319.82,2023,10,3,Tuesday
+88e0bdbf,2023-10-04,Bangalore,Clothing,640.86,6,E-Wallet,3845.16,0.06,230.71,2023,10,4,Wednesday
+91f878f4,2023-10-05,Bangalore,Clothing,980.77,3,E-Wallet,2942.31,0.08,235.38,2023,10,5,Thursday
+fdf25865,2023-10-06,Mumbai,Groceries,904.33,6,Cash,5425.9800000000005,0.09,488.34,2023,10,6,Friday
+0b7ffccb,2023-10-07,Mumbai,Groceries,650.2,2,Cash,1300.4,0.1,130.04,2023,10,7,Saturday
+decb2efc,2023-10-08,Bangalore,Clothing,696.24,2,E-Wallet,1392.48,0.05,69.62,2023,10,8,Sunday
+92523396,2023-10-09,Bangalore,Stationery,61.08,9,Credit Card,549.72,0.06,32.98,2023,10,9,Monday
+fd1f79f6,2023-10-10,Bangalore,Electronics,673.22,7,Cash,4712.54,0.08,377.0,2023,10,10,Tuesday
+136cdee7,2023-10-11,Delhi,Stationery,53.72,3,Cash,161.16,0.15,24.17,2023,10,11,Wednesday
+16de6792,2023-10-12,Mumbai,Home Decor,592.38,1,Credit Card,592.38,0.08,47.39,2023,10,12,Thursday
+d0e957c8,2023-10-13,Bangalore,Groceries,999.36,8,Cash,7994.88,0.1,799.49,2023,10,13,Friday
+e47ce7fd,2023-10-14,Mumbai,Electronics,560.25,6,Credit Card,3361.5,0.07,235.31,2023,10,14,Saturday
+ff630830,2023-10-15,Delhi,Electronics,478.48,7,Credit Card,3349.36,0.11,368.43,2023,10,15,Sunday
+c7c654f9,2023-10-16,Delhi,Home Decor,319.73,9,Credit Card,2877.57,0.08,230.21,2023,10,16,Monday
+3aef8c3d,2023-10-17,Bangalore,Home Decor,129.32,5,E-Wallet,646.5999999999999,0.07,45.26,2023,10,17,Tuesday
+ab1daeed,2023-10-18,Delhi,Clothing,733.71,1,E-Wallet,733.71,0.1,73.37,2023,10,18,Wednesday
+46ea5ea6,2023-10-19,Mumbai,Groceries,200.67,7,E-Wallet,1404.6899999999998,0.05,70.23,2023,10,19,Thursday
+2ebfa974,2023-10-20,Bangalore,Groceries,124.13,5,Credit Card,620.65,0.05,31.03,2023,10,20,Friday
+05e22758,2023-10-21,Mumbai,Stationery,427.55,3,Credit Card,1282.65,0.07,89.79,2023,10,21,Saturday
+734af01f,2023-10-22,Mumbai,Clothing,797.39,9,E-Wallet,7176.51,0.05,358.83,2023,10,22,Sunday
+8c92e06a,2023-10-23,Delhi,Clothing,747.61,1,Cash,747.61,0.06,44.86,2023,10,23,Monday
+82982ed6,2023-10-24,Delhi,Clothing,64.33,1,Credit Card,64.33,0.08,5.15,2023,10,24,Tuesday
+a21bb1ba,2023-10-25,Delhi,Clothing,460.59,1,Cash,460.59,0.13,59.88,2023,10,25,Wednesday
+3d1b0086,2023-10-26,Delhi,Groceries,527.21,3,Cash,1581.63,0.11,173.98,2023,10,26,Thursday
+665f93a7,2023-10-27,Delhi,Groceries,648.1,6,Credit Card,3888.6000000000004,0.1,388.86,2023,10,27,Friday
+d5b4c7f1,2023-10-28,Bangalore,Clothing,653.67,3,Credit Card,1961.0099999999998,0.08,156.88,2023,10,28,Saturday
+bffba399,2023-10-29,Mumbai,Stationery,371.05,8,Cash,2968.4,0.14,415.58,2023,10,29,Sunday
+b58a6bda,2023-10-30,Mumbai,Electronics,565.07,2,Cash,1130.14,0.09,101.71,2023,10,30,Monday
+8f99947b,2023-10-31,Mumbai,Electronics,486.25,9,E-Wallet,4376.25,0.06,262.58,2023,10,31,Tuesday
+86d38ec7,2023-11-01,Mumbai,Stationery,886.15,3,E-Wallet,2658.45,0.11,292.43,2023,11,1,Wednesday
+ac128cd0,2023-11-02,Delhi,Clothing,534.96,5,Credit Card,2674.8,0.06,160.49,2023,11,2,Thursday
+744352b1,2023-11-03,Mumbai,Groceries,446.62,8,E-Wallet,3572.96,0.08,285.84,2023,11,3,Friday
+8e4e407c,2023-11-04,Bangalore,Electronics,410.44,2,E-Wallet,820.88,0.1,82.09,2023,11,4,Saturday
+6bdb8629,2023-11-05,Bangalore,Home Decor,576.7,6,E-Wallet,3460.2000000000003,0.14,484.43,2023,11,5,Sunday
+b1259dde,2023-11-06,Mumbai,Home Decor,805.94,5,E-Wallet,4029.7000000000003,0.1,402.97,2023,11,6,Monday
+dd3e0e56,2023-11-07,Mumbai,Stationery,543.02,9,Cash,4887.18,0.12,586.46,2023,11,7,Tuesday
+cdf98be2,2023-11-08,Bangalore,Clothing,665.04,5,Credit Card,3325.2,0.15,498.78,2023,11,8,Wednesday
+cddf5b77,2023-11-09,Bangalore,Electronics,740.48,2,E-Wallet,1480.96,0.06,88.86,2023,11,9,Thursday
+1979a6c2,2023-11-10,Delhi,Clothing,524.97,5,Cash,2624.8500000000004,0.08,209.99,2023,11,10,Friday
+07103ad4,2023-11-11,Bangalore,Electronics,432.55,4,Cash,1730.2,0.09,155.72,2023,11,11,Saturday
+25e2e990,2023-11-12,Delhi,Stationery,877.9,7,Cash,6145.3,0.09,553.08,2023,11,12,Sunday
+8c0fbaf8,2023-11-13,Delhi,Stationery,423.33,6,E-Wallet,2539.98,0.09,228.6,2023,11,13,Monday
+3b5b7900,2023-11-14,Delhi,Home Decor,467.32,2,E-Wallet,934.64,0.14,130.85,2023,11,14,Tuesday
+ac7a0ab1,2023-11-15,Delhi,Clothing,990.44,5,Credit Card,4952.200000000001,0.12,594.26,2023,11,15,Wednesday
+03584e4d,2023-11-16,Delhi,Home Decor,10.24,7,E-Wallet,71.68,0.11,7.88,2023,11,16,Thursday
+ecd21e4a,2023-11-17,Mumbai,Clothing,193.62,7,E-Wallet,1355.3400000000001,0.08,108.43,2023,11,17,Friday
+258f3080,2023-11-18,Bangalore,Home Decor,390.12,5,Cash,1950.6,0.13,253.58,2023,11,18,Saturday
+f7236d32,2023-11-19,Delhi,Groceries,933.26,9,Credit Card,8399.34,0.15,1259.9,2023,11,19,Sunday
+522c182c,2023-11-20,Bangalore,Groceries,79.33,4,E-Wallet,317.32,0.13,41.25,2023,11,20,Monday
+8c4bb115,2023-11-21,Bangalore,Groceries,19.39,3,E-Wallet,58.17,0.05,2.91,2023,11,21,Tuesday
+3e059868,2023-11-22,Delhi,Groceries,62.16,4,Cash,248.64,0.11,27.35,2023,11,22,Wednesday
+682904cf,2023-11-23,Mumbai,Electronics,97.66,5,Cash,488.29999999999995,0.06,29.3,2023,11,23,Thursday
+0c6105f7,2023-11-24,Delhi,Groceries,47.22,6,E-Wallet,283.32,0.08,22.67,2023,11,24,Friday
+91dff714,2023-11-25,Mumbai,Stationery,484.98,3,Credit Card,1454.94,0.06,87.3,2023,11,25,Saturday
+19cb3eb5,2023-11-26,Bangalore,Stationery,584.95,2,Credit Card,1169.9,0.11,128.69,2023,11,26,Sunday
+386f9b66,2023-11-27,Mumbai,Electronics,278.97,4,Cash,1115.88,0.12,133.91,2023,11,27,Monday
+9041ab6c,2023-11-28,Mumbai,Groceries,404.3,5,Cash,2021.5,0.06,121.29,2023,11,28,Tuesday
+b44274c3,2023-11-29,Mumbai,Groceries,100.78,4,E-Wallet,403.12,0.09,36.28,2023,11,29,Wednesday
+49f9383d,2023-11-30,Bangalore,Groceries,343.01,3,Cash,1029.03,0.1,102.9,2023,11,30,Thursday
+5465b148,2023-12-01,Bangalore,Home Decor,527.29,8,E-Wallet,4218.32,0.09,379.65,2023,12,1,Friday
+8f0388cb,2023-12-02,Mumbai,Clothing,734.95,4,Credit Card,2939.8,0.06,176.39,2023,12,2,Saturday
+915a66c8,2023-12-03,Mumbai,Home Decor,13.31,2,Credit Card,26.62,0.09,2.4,2023,12,3,Sunday
+8cbb1065,2023-12-04,Delhi,Clothing,472.64,2,E-Wallet,945.28,0.13,122.89,2023,12,4,Monday
+eada53c2,2023-12-05,Mumbai,Groceries,304.03,1,Cash,304.03,0.06,18.24,2023,12,5,Tuesday
+42ffbe27,2023-12-06,Delhi,Groceries,854.29,4,Credit Card,3417.16,0.06,205.03,2023,12,6,Wednesday
+5fa253d7,2023-12-07,Mumbai,Home Decor,718.4,9,Cash,6465.599999999999,0.09,581.9,2023,12,7,Thursday
+35707511,2023-12-08,Delhi,Home Decor,593.22,7,Credit Card,4152.54,0.14,581.36,2023,12,8,Friday
+3fd4954f,2023-12-09,Bangalore,Clothing,284.49,7,E-Wallet,1991.43,0.12,238.97,2023,12,9,Saturday
+1a79236c,2023-12-10,Mumbai,Stationery,911.24,7,E-Wallet,6378.68,0.12,765.44,2023,12,10,Sunday
+7eb5632c,2023-12-11,Mumbai,Clothing,54.65,8,E-Wallet,437.2,0.09,39.35,2023,12,11,Monday
+37f350cb,2023-12-12,Mumbai,Home Decor,118.37,1,Credit Card,118.37,0.11,13.02,2023,12,12,Tuesday
+4c43d758,2023-12-13,Mumbai,Home Decor,397.71,8,Cash,3181.68,0.05,159.08,2023,12,13,Wednesday
+08b66101,2023-12-14,Delhi,Electronics,133.19,4,Cash,532.76,0.11,58.6,2023,12,14,Thursday
+3b52b1f7,2023-12-15,Mumbai,Home Decor,956.85,4,Cash,3827.4,0.14,535.84,2023,12,15,Friday
+1c840b64,2023-12-16,Bangalore,Electronics,800.01,4,Credit Card,3200.04,0.11,352.0,2023,12,16,Saturday
+4be7050e,2023-12-17,Bangalore,Stationery,266.39,6,Credit Card,1598.34,0.14,223.77,2023,12,17,Sunday
+30adf0b8,2023-12-18,Mumbai,Clothing,592.67,7,Credit Card,4148.69,0.12,497.84,2023,12,18,Monday
+0b9280ea,2023-12-19,Bangalore,Clothing,982.51,6,Credit Card,5895.0599999999995,0.06,353.7,2023,12,19,Tuesday
+5e2a5c62,2023-12-20,Mumbai,Electronics,885.36,1,Credit Card,885.36,0.14,123.95,2023,12,20,Wednesday
+cd48cad6,2023-12-21,Mumbai,Clothing,604.79,8,Cash,4838.32,0.06,290.3,2023,12,21,Thursday
+fe02909c,2023-12-22,Bangalore,Home Decor,904.69,7,Credit Card,6332.83,0.1,633.28,2023,12,22,Friday
+b83585bd,2023-12-23,Mumbai,Groceries,989.29,6,Credit Card,5935.74,0.06,356.14,2023,12,23,Saturday
+219a035f,2023-12-24,Bangalore,Electronics,745.92,6,Cash,4475.5199999999995,0.05,223.78,2023,12,24,Sunday
+93debd3a,2023-12-25,Delhi,Clothing,74.34,5,Credit Card,371.70000000000005,0.09,33.45,2023,12,25,Monday
+466c6880,2023-12-26,Mumbai,Electronics,407.56,6,Cash,2445.36,0.08,195.63,2023,12,26,Tuesday
+ff3cdc10,2023-12-27,Delhi,Electronics,839.45,9,Cash,7555.05,0.1,755.51,2023,12,27,Wednesday
+8c3d3269,2023-12-28,Bangalore,Groceries,238.26,9,E-Wallet,2144.34,0.11,235.88,2023,12,28,Thursday
+e48044a1,2023-12-29,Delhi,Home Decor,832.34,8,E-Wallet,6658.72,0.05,332.94,2023,12,29,Friday
+f84945a1,2023-12-30,Delhi,Electronics,129.14,9,E-Wallet,1162.2599999999998,0.06,69.74,2023,12,30,Saturday
+cbdf4e6f,2023-12-31,Bangalore,Clothing,56.48,8,E-Wallet,451.84,0.11,49.7,2023,12,31,Sunday
+79f6b4b1,2024-01-01,Delhi,Stationery,390.25,8,Credit Card,3122.0,0.08,249.76,2024,1,1,Monday
+9c5844cb,2024-01-02,Delhi,Electronics,46.36,1,E-Wallet,46.36,0.12,5.56,2024,1,2,Tuesday
+eacea9bb,2024-01-03,Bangalore,Electronics,957.7,5,Cash,4788.5,0.12,574.62,2024,1,3,Wednesday
+bd531e86,2024-01-04,Delhi,Groceries,827.94,4,Credit Card,3311.76,0.13,430.53,2024,1,4,Thursday
+b2207c79,2024-01-05,Bangalore,Home Decor,802.76,2,E-Wallet,1605.52,0.12,192.66,2024,1,5,Friday
+3ed520c5,2024-01-06,Delhi,Stationery,633.48,8,Cash,5067.84,0.09,456.11,2024,1,6,Saturday
+8b146aa0,2024-01-07,Bangalore,Clothing,224.16,3,Credit Card,672.48,0.12,80.7,2024,1,7,Sunday
+40c22759,2024-01-08,Bangalore,Stationery,523.08,4,Credit Card,2092.32,0.08,167.39,2024,1,8,Monday
+2131b1b6,2024-01-09,Delhi,Clothing,601.3,7,E-Wallet,4209.099999999999,0.08,336.73,2024,1,9,Tuesday
+2ed840e0,2024-01-10,Delhi,Home Decor,529.78,9,Credit Card,4768.0199999999995,0.13,619.84,2024,1,10,Wednesday
+e8e348a1,2024-01-11,Delhi,Clothing,267.63,2,Cash,535.26,0.09,48.17,2024,1,11,Thursday
+67a1ee41,2024-01-12,Mumbai,Groceries,520.1,3,Credit Card,1560.3000000000002,0.13,202.84,2024,1,12,Friday
+e66d7aa2,2024-01-13,Mumbai,Groceries,496.27,4,Cash,1985.08,0.13,258.06,2024,1,13,Saturday
+78d24954,2024-01-14,Mumbai,Groceries,996.37,1,Credit Card,996.37,0.14,139.49,2024,1,14,Sunday
+f15454a1,2024-01-15,Bangalore,Groceries,898.46,7,E-Wallet,6289.22,0.14,880.49,2024,1,15,Monday
+dea41596,2024-01-16,Delhi,Stationery,468.75,2,Cash,937.5,0.09,84.38,2024,1,16,Tuesday
+31a798d6,2024-01-17,Bangalore,Home Decor,626.71,5,Credit Card,3133.55,0.08,250.68,2024,1,17,Wednesday
+63d13bed,2024-01-18,Mumbai,Clothing,750.39,1,Credit Card,750.39,0.11,82.54,2024,1,18,Thursday
+890126f2,2024-01-19,Delhi,Clothing,44.52,3,Credit Card,133.56,0.09,12.02,2024,1,19,Friday
+1a858923,2024-01-20,Bangalore,Groceries,895.97,2,Cash,1791.94,0.11,197.11,2024,1,20,Saturday
+696d65e1,2024-01-21,Delhi,Groceries,861.53,1,Cash,861.53,0.12,103.38,2024,1,21,Sunday
+2cfc0a78,2024-01-22,Bangalore,Electronics,462.86,7,Cash,3240.02,0.12,388.8,2024,1,22,Monday
+fbe2ec78,2024-01-23,Delhi,Home Decor,397.26,5,E-Wallet,1986.3,0.09,178.77,2024,1,23,Tuesday
+8afc9b56,2024-01-24,Mumbai,Stationery,280.23,1,E-Wallet,280.23,0.07,19.62,2024,1,24,Wednesday
+66a92bca,2024-01-25,Mumbai,Clothing,481.91,6,Cash,2891.46,0.09,260.23,2024,1,25,Thursday
+33d1ca6b,2024-01-26,Delhi,Electronics,53.93,5,Credit Card,269.65,0.06,16.18,2024,1,26,Friday
+0186086a,2024-01-27,Bangalore,Electronics,853.67,3,E-Wallet,2561.0099999999998,0.14,358.54,2024,1,27,Saturday
+64b66fe4,2024-01-28,Mumbai,Clothing,45.07,7,Cash,315.49,0.08,25.24,2024,1,28,Sunday
+09fb6792,2024-01-29,Mumbai,Stationery,335.76,9,Credit Card,3021.84,0.07,211.53,2024,1,29,Monday
+97edc8f9,2024-01-30,Mumbai,Electronics,932.27,9,E-Wallet,8390.43,0.05,419.52,2024,1,30,Tuesday
+52f50be2,2024-01-31,Delhi,Electronics,737.86,9,Credit Card,6640.74,0.11,730.48,2024,1,31,Wednesday
+3de64c31,2024-02-01,Delhi,Home Decor,288.58,2,Credit Card,577.16,0.11,63.49,2024,2,1,Thursday
+ea6adecb,2024-02-02,Bangalore,Stationery,260.12,3,Credit Card,780.36,0.08,62.43,2024,2,2,Friday
+6bcaf1a9,2024-02-03,Bangalore,Electronics,15.03,7,Credit Card,105.21,0.06,6.31,2024,2,3,Saturday
+07acf314,2024-02-04,Bangalore,Stationery,698.76,5,E-Wallet,3493.8,0.09,314.44,2024,2,4,Sunday
+05694dfb,2024-02-05,Delhi,Clothing,58.3,2,E-Wallet,116.6,0.08,9.33,2024,2,5,Monday
+fbfa6657,2024-02-06,Delhi,Groceries,537.28,3,E-Wallet,1611.84,0.12,193.42,2024,2,6,Tuesday
+b4dbea51,2024-02-07,Bangalore,Electronics,962.5,6,Cash,5775.0,0.11,635.25,2024,2,7,Wednesday
+ed8164c9,2024-02-08,Bangalore,Home Decor,118.37,7,E-Wallet,828.59,0.09,74.57,2024,2,8,Thursday
+53e728bc,2024-02-09,Delhi,Clothing,895.54,9,Credit Card,8059.86,0.07,564.19,2024,2,9,Friday
+0d0621fe,2024-02-10,Bangalore,Stationery,991.56,1,E-Wallet,991.56,0.15,148.73,2024,2,10,Saturday
+7c34c682,2024-02-11,Mumbai,Clothing,70.9,7,Credit Card,496.30000000000007,0.1,49.63,2024,2,11,Sunday
+02653fb7,2024-02-12,Delhi,Electronics,884.08,8,Cash,7072.64,0.12,848.72,2024,2,12,Monday
+33867f70,2024-02-13,Bangalore,Stationery,520.92,3,Credit Card,1562.7599999999998,0.06,93.77,2024,2,13,Tuesday
+dd019d75,2024-02-14,Delhi,Groceries,907.45,4,Credit Card,3629.8,0.1,362.98,2024,2,14,Wednesday
+eca1ed5a,2024-02-15,Mumbai,Clothing,575.61,6,Credit Card,3453.66,0.05,172.68,2024,2,15,Thursday
+66c303ab,2024-02-16,Delhi,Electronics,665.49,7,Cash,4658.43,0.1,465.84,2024,2,16,Friday
+f9054be5,2024-02-17,Delhi,Home Decor,548.34,4,E-Wallet,2193.36,0.15,329.0,2024,2,17,Saturday
+67bc40f0,2024-02-18,Delhi,Stationery,865.85,8,E-Wallet,6926.8,0.09,623.41,2024,2,18,Sunday
+a26e397d,2024-02-19,Delhi,Clothing,736.57,5,Cash,3682.8500000000004,0.05,184.14,2024,2,19,Monday
+54a3106d,2024-02-20,Mumbai,Clothing,526.05,1,Credit Card,526.05,0.05,26.3,2024,2,20,Tuesday
+3742921e,2024-02-21,Delhi,Groceries,869.48,4,E-Wallet,3477.92,0.09,313.01,2024,2,21,Wednesday
+c9fd2896,2024-02-22,Delhi,Groceries,252.83,3,Cash,758.49,0.07,53.09,2024,2,22,Thursday
+c569659f,2024-02-23,Bangalore,Home Decor,165.77,9,E-Wallet,1491.93,0.05,74.6,2024,2,23,Friday
+651f53f0,2024-02-24,Delhi,Home Decor,168.8,8,Cash,1350.4,0.13,175.55,2024,2,24,Saturday
+667b8a3d,2024-02-25,Bangalore,Electronics,340.67,1,Credit Card,340.67,0.1,34.07,2024,2,25,Sunday
+81d80dfb,2024-02-26,Mumbai,Electronics,246.3,6,E-Wallet,1477.8000000000002,0.08,118.22,2024,2,26,Monday
+8ab56ece,2024-02-27,Mumbai,Home Decor,930.79,9,Cash,8377.11,0.14,1172.8,2024,2,27,Tuesday
+2a80d624,2024-02-28,Mumbai,Home Decor,114.78,7,E-Wallet,803.46,0.06,48.21,2024,2,28,Wednesday
+10ed2067,2024-02-29,Mumbai,Stationery,702.0,4,E-Wallet,2808.0,0.15,421.2,2024,2,29,Thursday
+0463979f,2024-03-01,Bangalore,Groceries,197.33,1,E-Wallet,197.33,0.08,15.79,2024,3,1,Friday
+aec0ab09,2024-03-02,Delhi,Electronics,882.82,2,E-Wallet,1765.64,0.14,247.19,2024,3,2,Saturday
+f923228b,2024-03-03,Mumbai,Groceries,961.7,5,Cash,4808.5,0.11,528.94,2024,3,3,Sunday
+96180be5,2024-03-04,Delhi,Groceries,470.82,5,Credit Card,2354.1,0.13,306.03,2024,3,4,Monday
+035da6a2,2024-03-05,Bangalore,Home Decor,880.28,8,Cash,7042.24,0.15,1056.34,2024,3,5,Tuesday
+d5e949f1,2024-03-06,Bangalore,Stationery,15.09,6,Cash,90.53999999999999,0.08,7.24,2024,3,6,Wednesday
+8cb95cd0,2024-03-07,Bangalore,Clothing,821.75,8,Cash,6574.0,0.15,986.1,2024,3,7,Thursday
+2e40909e,2024-03-08,Mumbai,Stationery,236.34,2,Credit Card,472.68,0.09,42.54,2024,3,8,Friday
+acb0027e,2024-03-09,Delhi,Stationery,909.61,3,E-Wallet,2728.83,0.09,245.59,2024,3,9,Saturday
+2bd133a1,2024-03-10,Delhi,Groceries,11.11,6,E-Wallet,66.66,0.08,5.33,2024,3,10,Sunday
+1ca68c21,2024-03-11,Delhi,Stationery,560.62,3,E-Wallet,1681.8600000000001,0.1,168.19,2024,3,11,Monday
+1f9f02b9,2024-03-12,Bangalore,Electronics,759.07,6,Credit Card,4554.42,0.07,318.81,2024,3,12,Tuesday
+08d84d13,2024-03-13,Mumbai,Groceries,266.1,6,E-Wallet,1596.6000000000001,0.11,175.63,2024,3,13,Wednesday
+c3889b71,2024-03-14,Bangalore,Electronics,201.2,2,Credit Card,402.4,0.1,40.24,2024,3,14,Thursday
+1907628f,2024-03-15,Bangalore,Clothing,93.26,7,E-Wallet,652.82,0.13,84.87,2024,3,15,Friday
+4c5fa7d7,2024-03-16,Delhi,Groceries,333.17,2,E-Wallet,666.34,0.13,86.62,2024,3,16,Saturday
+1696fe2a,2024-03-17,Bangalore,Clothing,564.25,6,Cash,3385.5,0.09,304.7,2024,3,17,Sunday
+52e7a2db,2024-03-18,Delhi,Groceries,124.69,1,Credit Card,124.69,0.08,9.98,2024,3,18,Monday
+2d3d27a0,2024-03-19,Mumbai,Home Decor,382.93,3,Cash,1148.79,0.08,91.9,2024,3,19,Tuesday
+7e63f63d,2024-03-20,Delhi,Stationery,18.98,2,Cash,37.96,0.07,2.66,2024,3,20,Wednesday
+8fb542b0,2024-03-21,Mumbai,Home Decor,820.49,7,Cash,5743.43,0.06,344.61,2024,3,21,Thursday
+e1332eec,2024-03-22,Delhi,Clothing,137.16,4,Credit Card,548.64,0.08,43.89,2024,3,22,Friday
+550cc36d,2024-03-23,Bangalore,Stationery,290.51,8,Credit Card,2324.08,0.08,185.93,2024,3,23,Saturday
+96c3ca51,2024-03-24,Bangalore,Groceries,28.24,6,E-Wallet,169.44,0.15,25.42,2024,3,24,Sunday
+32848e27,2024-03-25,Mumbai,Stationery,437.92,4,Cash,1751.68,0.11,192.68,2024,3,25,Monday
+17dee20b,2024-03-26,Mumbai,Electronics,841.72,5,E-Wallet,4208.6,0.08,336.69,2024,3,26,Tuesday
+ba742742,2024-03-27,Mumbai,Stationery,398.23,9,Cash,3584.07,0.11,394.25,2024,3,27,Wednesday
+e798d410,2024-03-28,Delhi,Electronics,187.7,7,Credit Card,1313.8999999999999,0.06,78.83,2024,3,28,Thursday
+d79c08bb,2024-03-29,Delhi,Stationery,756.16,9,Credit Card,6805.44,0.09,612.49,2024,3,29,Friday
+328b7cc0,2024-03-30,Mumbai,Electronics,790.92,7,Credit Card,5536.44,0.11,609.01,2024,3,30,Saturday
+ce642783,2024-03-31,Bangalore,Clothing,182.02,1,Cash,182.02,0.1,18.2,2024,3,31,Sunday
+00238dfa,2024-04-01,Delhi,Home Decor,773.15,8,Credit Card,6185.2,0.09,556.67,2024,4,1,Monday
+e2b7d1c5,2024-04-02,Delhi,Groceries,947.82,4,Cash,3791.28,0.15,568.69,2024,4,2,Tuesday
+bf02e114,2024-04-03,Delhi,Stationery,174.71,3,E-Wallet,524.13,0.14,73.38,2024,4,3,Wednesday
+68a78089,2024-04-04,Mumbai,Home Decor,773.27,7,Cash,5412.889999999999,0.11,595.42,2024,4,4,Thursday
+1e461988,2024-04-05,Mumbai,Groceries,711.49,3,E-Wallet,2134.4700000000003,0.11,234.79,2024,4,5,Friday
+254f9548,2024-04-06,Mumbai,Groceries,478.84,8,Cash,3830.72,0.11,421.38,2024,4,6,Saturday
+a13a63ae,2024-04-07,Mumbai,Electronics,67.34,6,E-Wallet,404.04,0.07,28.28,2024,4,7,Sunday
+67c8c192,2024-04-08,Mumbai,Clothing,83.95,5,Credit Card,419.75,0.09,37.78,2024,4,8,Monday
+3fba7e1d,2024-04-09,Bangalore,Clothing,853.89,4,E-Wallet,3415.56,0.05,170.78,2024,4,9,Tuesday
+4a37487a,2024-04-10,Bangalore,Home Decor,990.25,8,Credit Card,7922.0,0.1,792.2,2024,4,10,Wednesday
+581e44e3,2024-04-11,Mumbai,Clothing,679.29,8,Credit Card,5434.32,0.1,543.43,2024,4,11,Thursday
+1b36ec96,2024-04-12,Delhi,Stationery,451.5,1,E-Wallet,451.5,0.07,31.61,2024,4,12,Friday
+8dcca972,2024-04-13,Mumbai,Clothing,651.1,9,Cash,5859.900000000001,0.15,878.98,2024,4,13,Saturday
+098a73a8,2024-04-14,Bangalore,Home Decor,598.45,5,Cash,2992.25,0.14,418.92,2024,4,14,Sunday
+1d7f1429,2024-04-15,Bangalore,Clothing,389.78,4,Cash,1559.12,0.12,187.09,2024,4,15,Monday
+b959bd0c,2024-04-16,Delhi,Stationery,74.97,6,Cash,449.82,0.1,44.98,2024,4,16,Tuesday
+62c1b221,2024-04-17,Bangalore,Electronics,823.3,6,Cash,4939.799999999999,0.14,691.57,2024,4,17,Wednesday
+a5b882c9,2024-04-18,Mumbai,Home Decor,378.12,2,Credit Card,756.24,0.06,45.37,2024,4,18,Thursday
+65b854a1,2024-04-19,Delhi,Electronics,820.6,8,Cash,6564.8,0.13,853.42,2024,4,19,Friday
+b4c4a715,2024-04-20,Mumbai,Electronics,259.98,7,Credit Card,1819.8600000000001,0.06,109.19,2024,4,20,Saturday
+1c639207,2024-04-21,Mumbai,Electronics,11.02,1,Credit Card,11.02,0.13,1.43,2024,4,21,Sunday
+c62f4767,2024-04-22,Delhi,Groceries,167.35,5,Credit Card,836.75,0.08,66.94,2024,4,22,Monday
+410d9b18,2024-04-23,Mumbai,Groceries,473.85,6,E-Wallet,2843.1000000000004,0.14,398.03,2024,4,23,Tuesday
+2763dc7c,2024-04-24,Bangalore,Electronics,944.86,4,E-Wallet,3779.44,0.14,529.12,2024,4,24,Wednesday
+bc5bee7f,2024-04-25,Mumbai,Home Decor,111.17,2,Credit Card,222.34,0.06,13.34,2024,4,25,Thursday
+608b897e,2024-04-26,Delhi,Stationery,855.67,4,E-Wallet,3422.68,0.1,342.27,2024,4,26,Friday
+241ee3fc,2024-04-27,Delhi,Stationery,531.75,1,Cash,531.75,0.15,79.76,2024,4,27,Saturday
+1b5c8de9,2024-04-28,Delhi,Clothing,827.66,7,Cash,5793.62,0.1,579.36,2024,4,28,Sunday
+6dca73a7,2024-04-29,Mumbai,Home Decor,305.39,2,Credit Card,610.78,0.14,85.51,2024,4,29,Monday
+5db67086,2024-04-30,Delhi,Groceries,841.55,2,Cash,1683.1,0.11,185.14,2024,4,30,Tuesday
+739ec82a,2024-05-01,Delhi,Electronics,775.09,9,Credit Card,6975.81,0.09,627.82,2024,5,1,Wednesday
+7a244fac,2024-05-02,Mumbai,Clothing,237.75,5,Credit Card,1188.75,0.08,95.1,2024,5,2,Thursday
+2c563524,2024-05-03,Bangalore,Stationery,140.02,2,Cash,280.04,0.07,19.6,2024,5,3,Friday
+113524d4,2024-05-04,Mumbai,Groceries,869.37,9,E-Wallet,7824.33,0.13,1017.16,2024,5,4,Saturday
+b7070c90,2024-05-05,Delhi,Groceries,963.6,9,Cash,8672.4,0.09,780.52,2024,5,5,Sunday
+adb5a113,2024-05-06,Delhi,Electronics,40.99,1,Cash,40.99,0.1,4.1,2024,5,6,Monday
+dfe22ecd,2024-05-07,Mumbai,Stationery,733.96,3,Credit Card,2201.88,0.1,220.19,2024,5,7,Tuesday
+c5b69c88,2024-05-08,Bangalore,Home Decor,910.43,4,Credit Card,3641.72,0.11,400.59,2024,5,8,Wednesday
+68d20d04,2024-05-09,Delhi,Groceries,858.79,7,Credit Card,6011.53,0.14,841.61,2024,5,9,Thursday
+22c1c528,2024-05-10,Delhi,Electronics,964.88,4,Credit Card,3859.52,0.15,578.93,2024,5,10,Friday
+823bc4b3,2024-05-11,Delhi,Home Decor,762.49,2,E-Wallet,1524.98,0.09,137.25,2024,5,11,Saturday
+5998f66d,2024-05-12,Mumbai,Stationery,447.88,7,E-Wallet,3135.16,0.13,407.57,2024,5,12,Sunday
+10eda4b4,2024-05-13,Delhi,Groceries,318.83,6,E-Wallet,1912.98,0.13,248.69,2024,5,13,Monday
+e7015e38,2024-05-14,Bangalore,Home Decor,327.54,3,Credit Card,982.6200000000001,0.11,108.09,2024,5,14,Tuesday
